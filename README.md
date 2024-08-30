@@ -4,6 +4,19 @@
 
 Este é um projeto utilizando JavaScript para a responder os exercícios da lista de tarefas 01 do curso Full Stack (Codifica e +praTi).
 
+## Clonar o Repositório
+
+Para começar a trabalhar com o projeto, primeiro você precisa clonar o repositório. Siga as instruções abaixo:
+
+1. **Copie a URL do repositório**: Você pode encontrar a URL do repositório na página do GitHub (ou na plataforma de versionamento de sua escolha). Geralmente, ela é algo como `https://github.com/usuario/repositorio.git`.
+
+2. **Abra o terminal (ou prompt de comando)**.
+
+3. **Navegue até o diretório onde deseja clonar o repositório**:
+
+   ```bash
+   cd caminho/do/diretório
+
 ## Instalação
 
 Para executar este projeto, você precisa ter o Node.js instalado em seu sistema. Siga as instruções abaixo para instalar o Node.js e o pacote `prompt-sync`.
